@@ -1,0 +1,12 @@
+Dataset:
+  classes: 19
+  names_path: ./labels/cityscapes_names.txt  # path of dataset category names
+Files:
+  labels_root: ./labels
+  labels_list: ./labels/val_Labels.txt  # results_root: E:\GitLab\metrics\compile_workspace\results_onboard\ddrnet_16_pt  # results save folder
+  results_root: E:\GitLab\metrics\compile_workspace\results_onboard\ddrnet_16_pc  # results save folder
+  results_list: ./labels/valImages.txt # results list
+
+Options:
+  index_start: 0  # evaluation start index in list
+  index_step: 0  # evaluation step index in list, 0 means to end

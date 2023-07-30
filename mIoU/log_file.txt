@@ -1,0 +1,20 @@
+2023-06-25 10:31:50,356 - main-logger - INFO - Eval result: mIoU/mAcc/allAcc 0.7944/0.8633/0.9627.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_0 result: iou/accuracy 0.9818/0.9898, name: road.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_1 result: iou/accuracy 0.8521/0.9321, name: sidewalk.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_2 result: iou/accuracy 0.9281/0.9681, name: building.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_3 result: iou/accuracy 0.5570/0.6179, name: wall.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_4 result: iou/accuracy 0.6344/0.7294, name: fence.
+2023-06-25 10:31:50,356 - main-logger - INFO - Class_5 result: iou/accuracy 0.6628/0.7616, name: pole.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_6 result: iou/accuracy 0.7317/0.8429, name: traffic light.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_7 result: iou/accuracy 0.8067/0.8776, name: traffic sign.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_8 result: iou/accuracy 0.9271/0.9677, name: vegetation.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_9 result: iou/accuracy 0.6471/0.7306, name: terrain.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_10 result: iou/accuracy 0.9510/0.9783, name: sky.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_11 result: iou/accuracy 0.8355/0.9235, name: person.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_12 result: iou/accuracy 0.6705/0.7836, name: rider.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_13 result: iou/accuracy 0.9545/0.9791, name: car.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_14 result: iou/accuracy 0.7958/0.8415, name: truck.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_15 result: iou/accuracy 0.9031/0.9403, name: bus.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_16 result: iou/accuracy 0.8138/0.8582, name: train.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_17 result: iou/accuracy 0.6554/0.7797, name: motorcycle.
+2023-06-25 10:31:50,357 - main-logger - INFO - Class_18 result: iou/accuracy 0.7845/0.8997, name: bicycle.
